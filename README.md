@@ -169,6 +169,49 @@ palindrome(string)
 
 Thus,the program has been executed successfully.
 
+----
+
+# Tuple in Python: Check Element Existence
+
+## 🎯 Aim
+
+To write a Python program that checks if the element 'n' and the element 8 exist within a given tuple.
+
+## 🧠 Algorithm
+
+Define a tuple x with some letters and numbers.
+
+Use the in operator to check if the string 'n' exists within the tuple.
+
+Use the in operator to check if the integer 8 exists within the tuple.
+
+Print the results.
+
+## 🧾 Program
+
+``` python
+
+k=eval(input())
+if "n" in k:
+    print("False")
+else:
+    print("True")
+if "8" in k:
+    print("True")
+else:
+    print("False")
+
+```
+
+## Output
+
+![image](https://github.com/user-attachments/assets/8a2204f5-0791-4b55-8050-629926e7fd0a)
+
+
+## Result
+
+Thus,the program has been executed successfully.
+
 
 
 
